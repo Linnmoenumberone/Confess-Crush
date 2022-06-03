@@ -1,20 +1,25 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: "cà khịa xuyên lục địa"
+    introTitle: Hà ngu vcl,
+    introDesc: "`Uầy uầy uây uây~"
+"Sao mới gặp lần đầu mà đầu mình quay quay
+Bây bê bây bề
+Em bỏ bùa gì mà lại làm anh mê zậy?",
+    btnIntro: '^^ahihi wủy xứ à^^',
+    title: '
+'Giây phút gặp hà ng u là
+Anh biết anh mê khịa'
+
+    desc: '
+'Tuy khịa xong anh ăn đánh
+Nhưng khịa nàng làm anh phee phee ',
+    btnYes: 'ù, tớ rất vinh dự khi được dươn trêu<33',
+    btnNo: 'con mất dại :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại đánh mình '-',
+    btnReply: 'Gửi cho dương <:',
+    reply: Tại tau đánh iu mài đó, cục tưng à 🤭🤭🤭',
+    mess: 'Mình biết mà 🥰. Đánh đau nh mà mình đếu iu bạn 😘😘',
+    messDesc: 'Nao rảnh cho mình 10 tị rồi mình đem bạn về nuôi nhe .',
+    btnAccept: 'Okiiiii lun, anh về nhà chú làm dâu luôn <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
